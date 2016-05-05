@@ -1,0 +1,9 @@
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\DatabaseFirst.pdb
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\EntityFramework.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\EntityFramework.xml
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\bin\EntityFramework.SqlServer.xml
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.csprojResolveAssemblyReference.cache
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.dll
+Z:\ASPNet\ASP.NET MVC 4.0\Self_Project\PragimTechnologies\EntityFramework\DatabaseFirst\DatabaseFirst\obj\Debug\DatabaseFirst.pdb
